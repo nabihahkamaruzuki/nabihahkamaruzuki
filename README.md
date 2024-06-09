@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJnb3Vya2U2ZWdhdXB2Mjd0bzlrZG5jZG11eDc5NjEwYjIwdzR5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QWawolwel5mTnhJ9gH/giphy.webp" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=nabihahkamaruzuki&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=nabihahkamaruzuki&style=flat-square&color=blue" alt=""/>
