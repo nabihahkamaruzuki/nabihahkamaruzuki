@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - I am a back-end developer.
 - Currently, started to document my progress as a developer on this Github profile.
-- My focus is learning web development based on <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a> course.
+- My current focus is learning web development based on <a href="https://www.theodinproject.com/paths/full-stack-javascript">The Odin Project</a> course.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
